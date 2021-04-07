@@ -236,6 +236,8 @@ oc pipeline
 
 Enjoy the end to end CI/CD with Tekton and IBM Edge Application Manager
 
+Adding for testing purposes
+
 ## Next steps
 
 * Learn more about augmenting your Go applications on IBM Cloud with the [Go Programming Guide](https://cloud.ibm.com/docs/go?topic=go-getting-started).
